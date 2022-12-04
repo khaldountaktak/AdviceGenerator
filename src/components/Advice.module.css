@@ -1,0 +1,49 @@
+@font-face {
+  font-family: "custom";
+  src: url("../assets/blooming_elegant_sans1-webfont.woff");
+}
+.title {
+  font-size: 1.5rem;
+  text-align: center;
+  width: 50%;
+  color: #4feea0;
+  margin-top: 1.5rem;
+  font-family: custom;
+}
+
+.content {
+  color: #cbe0e5;
+  font-size: 2rem;
+  padding: 2rem 1rem;
+  font-family: "heisei-kaku-gothic-std-w7", sans-serif;
+  font-weight: bold;
+  text-align: center;
+}
+
+.error {
+  color: red;
+  font-size: 1.5rem;
+  padding: 0.5rem;
+  font-family: "heisei-kaku-gothic-std-w7", sans-serif;
+  font-weight: bold;
+  text-align: center;
+}
+
+.svg {
+  width: auto;
+  padding-bottom: 2.5rem;
+  
+}
+
+.button {
+  border: none;
+  background-color: #53ffaa;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 3.5rem;
+  width: 3.5rem;
+  border-radius: 50%;
+  position: absolute;
+  bottom: -1.5rem;
+}
