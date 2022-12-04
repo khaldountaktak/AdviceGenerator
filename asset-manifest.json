@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/AdviceGenerator/static/css/main.69db8190.css",
+    "main.js": "/AdviceGenerator/static/js/main.7fdffb06.js",
+    "static/media/blooming_elegant_sans1-webfont.woff": "/AdviceGenerator/static/media/blooming_elegant_sans1-webfont.470612a0cea9c33b55f9.woff",
+    "index.html": "/AdviceGenerator/index.html",
+    "main.69db8190.css.map": "/AdviceGenerator/static/css/main.69db8190.css.map",
+    "main.7fdffb06.js.map": "/AdviceGenerator/static/js/main.7fdffb06.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69db8190.css",
+    "static/js/main.7fdffb06.js"
+  ]
+}
